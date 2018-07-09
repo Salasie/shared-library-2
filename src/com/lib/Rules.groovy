@@ -1,4 +1,4 @@
-package com.git
+package com.lib
 
 
 import groovy.json.JsonSlurper
